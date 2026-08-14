@@ -1,3 +1,5 @@
+# This project is no longer maintained; please use [HisenWeb/IronNestFCS-Smart](https://github.com/HisenWeb/IronNestFCS-Smart) instead.    
+
 # IronNestFCS
 
 [Demo Video](https://www.bilibili.com/video/BV1xc7F6WEET/)
